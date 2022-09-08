@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2-ExtensionMethod", "ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod.csproj", "{0AA649C6-D69E-45BA-BADB-7F99BFB5BA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodTest", "ExtensionMethodTest\ExtensionMethodTest.csproj", "{0AEC52AB-DB14-43B6-B29D-1679673FC05B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA649C6-D69E-45BA-BADB-7F99BFB5BA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA649C6-D69E-45BA-BADB-7F99BFB5BA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA649C6-D69E-45BA-BADB-7F99BFB5BA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA649C6-D69E-45BA-BADB-7F99BFB5BA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AEC52AB-DB14-43B6-B29D-1679673FC05B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AEC52AB-DB14-43B6-B29D-1679673FC05B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AEC52AB-DB14-43B6-B29D-1679673FC05B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AEC52AB-DB14-43B6-B29D-1679673FC05B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C55D16E-04C5-4C31-A784-4806E1682E2B}
+	EndGlobalSection
+EndGlobal

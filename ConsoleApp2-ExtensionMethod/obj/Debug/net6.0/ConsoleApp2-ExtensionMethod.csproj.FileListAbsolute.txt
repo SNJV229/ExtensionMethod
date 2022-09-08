@@ -1,0 +1,15 @@
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\bin\Debug\net6.0\ConsoleApp2-ExtensionMethod.exe
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\bin\Debug\net6.0\ConsoleApp2-ExtensionMethod.deps.json
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\bin\Debug\net6.0\ConsoleApp2-ExtensionMethod.runtimeconfig.json
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\bin\Debug\net6.0\ConsoleApp2-ExtensionMethod.dll
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\bin\Debug\net6.0\ConsoleApp2-ExtensionMethod.pdb
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ConsoleApp2-ExtensionMethod.csproj.AssemblyReference.cache
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ConsoleApp2-ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ConsoleApp2-ExtensionMethod.AssemblyInfoInputs.cache
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ConsoleApp2-ExtensionMethod.AssemblyInfo.cs
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ConsoleApp2-ExtensionMethod.csproj.CoreCompileInputs.cache
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ConsoleApp2-ExtensionMethod.dll
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\refint\ConsoleApp2-ExtensionMethod.dll
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ConsoleApp2-ExtensionMethod.pdb
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ConsoleApp2-ExtensionMethod.genruntimeconfig.cache
+L:\C#\ConsoleApp2-ExtensionMethod\ConsoleApp2-ExtensionMethod\obj\Debug\net6.0\ref\ConsoleApp2-ExtensionMethod.dll
